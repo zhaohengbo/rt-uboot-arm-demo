@@ -1,0 +1,11 @@
+#ifndef __SOC_CONFIG_IPQ40XX_H__
+#define __SOC_CONFIG_IPQ40XX_H__
+
+#define SOC_HANDLERS 96
+
+#define SOC_GIC_DIST_BASE 0x1E001000
+#define SOC_GIC_CPU_BASE 0x1E000100
+
+#define ARM_GIC_MAX_NR 1
+
+#endif
