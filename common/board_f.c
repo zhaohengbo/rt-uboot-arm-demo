@@ -867,7 +867,7 @@ static const init_fnc_t init_sequence_f[] = {
 	reserve_video,
 	reserve_trace,
 	reserve_uboot,
-	//reserve_rtos,
+	reserve_rtos,
 	reserve_malloc,
 	reserve_board,
 	setup_machine,
